@@ -736,3 +736,8 @@ object-fit: contain;
     }
   }
  
+  .n_grid:hover{
+    color: #F6995C;
+    border:0.5vw solid #F6995C;
+    transition: 1s;
+  }
